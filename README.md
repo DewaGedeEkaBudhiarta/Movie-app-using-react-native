@@ -1,9 +1,24 @@
-# Movie app using react native
-Movie app using react native with expo framework, tailwind css, and TMDB node api
-
 # Welcome to your Expo app 👋
-
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+# Movie App using React Native 🎬
+A modern movie discovery app built with React Native, Expo framework, TailwindCSS, and TMDB API.
+
+## Features
+
+- Browse trending movies
+- Search for movies
+- View movie details
+- Save favorite movies
+- Beautiful and responsive UI
+
+## Tech Stack
+
+- React Native with Expo
+- TypeScript
+- TailwindCSS with NativeWind
+- TMDB API
+- Expo Router for navigation
 
 ## Get started
 
@@ -27,16 +42,6 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Learn more
 
